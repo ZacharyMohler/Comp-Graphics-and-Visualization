@@ -1,5 +1,5 @@
 ## NOTE: this project uses stb_image for loading images used in texturing
-# CS-330 (Comp Graphic and Visualization)
+# OPENGL 3D RENDER + SHADER PIPELINE
 
 ### How do I approach designing software?
 My approach to desgining software usually follows a pattern of:
